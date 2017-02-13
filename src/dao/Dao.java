@@ -16,7 +16,7 @@ public class Dao {
 	private static java.sql.Statement statement;
 	private static PreparedStatement preparedStatement;
 	private static ResultSet resultSet;
-	//static List<Ceas>ceasuri= new ArrayList<Ceas>();
+	//static List<Ceas>ceasuri= new ArrayList<Ceas>();//cnc
 	
 	
 	
